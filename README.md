@@ -1,7 +1,7 @@
 <h1>What am I doing</h1>
 I'm interested in web nowadays, but I like a lot of field of programming. I'm the kid in a candy store.
 <h1>What am I thinking</h1>
-<img align='right' src="https://cdn.worldvectorlogo.com/logos/wizard-5.svg" width="250">
+<img align='right' src="https://i.ibb.co/1JzkZFV/wizard-5-removebg-preview.png" alt="wizard-5-removebg-preview" width="250">
 We lived on farms, then we lived in cities, and now we're living on computers! In an age where everything is done on computers, being a programmer is just like being a wizard. I love being one of the wizards of the modern age.
 
 I hate technology! I mean I love potential of technology but I hate its current state. I want users to be able to use technology with "plug and play" mentality without effort, problems. I think if someone pays to something in full they shoul be able to use it fully! So I realy hate bugs.
