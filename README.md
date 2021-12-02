@@ -1,5 +1,5 @@
 <h1>What am I doing</h1>
-I'm interested in image processing nowadays, but I like a lot of field of programming. I'm the kid in a candy store.
+I like a lot of field of programming. I'm the kid in a candy store.
 I know that I don't use GitHub properly, I upload only some finished projects as portfolios so my contributions are low.
 <h1>What am I thinking</h1>
 <img align='right' src="https://i.ibb.co/1JzkZFV/wizard-5-removebg-preview.png" alt="wizard-5-removebg-preview" width="250">
