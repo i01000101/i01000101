@@ -1,5 +1,5 @@
 <h1>What am I doing</h1>
-I am developing plugins for using Huawei mobile services in React Native.
+I am working at Turkish Airlines Technology as a full stack developer.
 <h1>What am I thinking</h1>
 <img align='right' src="https://i.ibb.co/1JzkZFV/wizard-5-removebg-preview.png" alt="wizard-5-removebg-preview" width="250">
 We lived on farms, then we lived in cities, and now we're living on computers! In an age where everything is done on computers, being a programmer is just like being a wizard. I love being one of the wizards of the modern age.
@@ -11,9 +11,9 @@ I'm hungry and foolish.
 
 <h3 align="left">Links</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/emre-ünlütürk/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="emre-%c3%bcnl%c3%bct%c3%bcrk" height="30" width="40" /></a>LinkedIn
+<a href="https://www.linkedin.com/in/emre-ünlütürk/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="emre-%c3%bcnl%c3%bct%c3%bcrk" height="30" width="40" />LinkedIn</a>
   
-<a href="https://lichess.org/@/newwwwww" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/lichess.svg" alt="Lichess" height="30" width="40" /></a>You can play chess with me
+<a href="https://lichess.org/@/newwwwww" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/lichess.svg" alt="Lichess" height="30" width="40" />You can play chess with me</a>
 
   
 </p>
